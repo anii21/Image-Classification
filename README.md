@@ -1,5 +1,5 @@
 # Image-Classification
-●	Developed CNN model for image classification, achieved high accuracy on Dogs vs. Cats dataset from Kaggle.
+●	This contains a CNN model for image classification, to achieve high accuracy on Dogs vs. Cats dataset from Kaggle.
 
 ●	Implemented optimized model with convolutional layers, pooling, and batch normalization.
 
